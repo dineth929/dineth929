@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dineth</h1>
 
-<!--
-**dineth929/dineth929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Developer | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Learning, Building and Exploring Technology 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning Python and Machine Learning.
+- 💻 Interested in Software Development and Artificial Intelligence.
+- 🚀 Building projects to improve my programming skills.
+- 🎯 Always excited to learn new technologies.
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,sqlite,git,github,vscode" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dineth929&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineth929&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
